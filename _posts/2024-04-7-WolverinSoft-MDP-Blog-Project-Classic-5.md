@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: "5th MDP Blog Post!"
+title: "Fifth MDP Blog Post!"
 ---
 # Introduction - TOTAL TIME: 18+ Hours
-Welcome to my Fourth blog post for this semester! I am going to be doing Studio Director for the next semester! I wasn't sure if that was something I should post here, but as of now it has officially been announced so I think its fine to put it here. I will outline the work and research that I have been doing in order to prepare for the upcoming summer cycle, as well as for the future of the Studio in general.
+Welcome to my Fifth blog post for this semester! I am going to be doing Studio Director for the next semester! I wasn't sure if that was something I should post here, but as of now it has officially been announced so I think its fine to put it here. I will outline the work and research that I have been doing in order to prepare for the upcoming summer cycle, as well as for the future of the Studio in general.
 
 # Weekly Meetings: 8 hours
 Each week we meet from around 11am-2pm. These meetings include general admin updates (like studio wide announcments, project updates, etc.). Then we do squad meetings, which this year, design starts with a presentation and production (me) creates tasks based on what we need to get done. Then after that, we split into department meetings where the department directors assign their department members tasks to do for the sprint.
