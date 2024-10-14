@@ -1,19 +1,19 @@
 ---
 layout: posts
-title: "First MDP Blog Post!"
+title: "F24 First Blogpost"
 ---
 
 > What I'm listening to: [Am I Still Dreaming?](https://www.youtube.com/watch?v=xbibCPr7R6Y)
 
-# Introduction - TOTAL TIME: 18+ Hours
+# Introduction - TOTAL TIME: 24+ Hours
 Hello! Welcome to the first MDP blogpost / journal. This year I am the Director of WolverineSoft Studio. We are currently heading 3 projects at once. This year we the Studio is split into 2 different projects. Production and R&D. Production is the main project, which is our Sandcastle RTS game. While R&D is dedicated to buliding the future games of the Studio. R&D currently has 2 teams + Production.
 
-# Leads Meetings (4 Hours)
+# Leads Meetings (5 Hours)
 ## First Leads Meeting (2 hours)
 Our first leads meeting after kickoff was getting a gutcheck on how we were feeling on the current state of Project Sandcastle RTS & also looking through the polls to see who was interested in R&D and who was interested in Production. After some debate, we ended up splitting 7 people into 2 groups. One group with 4 and another with 3.
 
 Another side project that we are looking into, which Kennedy & Ravi are helping out with is trying to get our own Gitlab instance up and running so that we can automate weekly builds. ITS has generously given us a separate computer & a 4tb SSD, and has been helping us to setup the Gitlab Instance. During the leads meeting we were also figuring out the next steps in which to setup the Gitlab, since this was our first time doing this kind of thing.
-## Second Leads Meeting (2 hours)
+## Second Leads Meeting (3 hours)
 This meeting was dedicated to work time. First bit of the meeting was dedicated to figuring out our Gitlab situation. Currently we are able to log in, but there are some errors that are popping up. We will be trying to squash those errors after Fall Break.
 
 We also discussed how the Walls should be functioning. It was originally assigned to a designer, but it came up in conversation and ended up taking up a good chunk of the meeting time. Later added this to the thread in the Walls channel in the Discord.
@@ -43,8 +43,12 @@ Here are the slides:
 # Studio GTMs (5 hours)
 So I decided to change a little bit of the meeting structure this semester.
 
-Jackbox or some sort of game at the beginning of the meeting. Then into meeting logistics. This is to attempt to help foster a sense of community within Studio and break the ice.
+Jackbox or some sort of game at the beginning of the meeting. Then into meeting logistics. This is to attempt to help foster a sense of community within Studio and break the ice. Something that we thought was missing from previous semesters.
+
+Then we move into annoucements, logistics, and try to minimize the meeting time to allow for more time actually working on the project and trying maximize communication during these times. That is the plan going forwards for the meetings and we'll see how it goes.
 
 
 # GDC Planning (5 hours)
-We're planning a GDC Trip! Had a meeting with Mariah first, which lasted about an hour, then had the planning meeting with the treasurer. Got told to give CoE a prelimnary plan.
+We're planning a GDC Trip! Had a meeting with Mariah first, which lasted about an hour, then had the planning meeting with the treasurer. Got told to give CoE a prelimnary plan. So we sent that to Mariah. Looking forwards to the feedback!
+
+# Playtesting and Bug Catching (2 hours)
