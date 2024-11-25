@@ -89,4 +89,4 @@ Here are the presentations:
 
 [10-27-2024-Studio-GTM](<../pdf/11_24_24 Studio GTM.pdf>)
 
-Yarger you are yogurt and if so, you are the dancing queen, young and sweet, only 17. :))
+Yarger are you yogurt and if so, are you the dancing queen, young and sweet, only 17??? :))
