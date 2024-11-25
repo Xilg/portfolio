@@ -6,7 +6,7 @@ title: "F24 Fourth Blogpost ITS CRUNCHHH TIMEEEEEEEEEEEEEEEEEEEEEEE"
 > What I'm listening to: Color your night (P3 Reloaded)
 
 # Introduction - TOTAL TIME: 32 Hours
-Hello! Welcome to my third devblog! I am slowly losing my mind!!!!! Just kidding. I'm excited and nervous for the next few weeks coming up.
+Hello! Welcome to my third devblog! I am slowly losing my mind!!!!! Just kidding. I'm excited and nervous for the next few weeks coming up. 
 
 # Directors 1 Meeting (3 hours)
 This meeting was mainly dealing with again, GDC grants and filling them out, while also talking about the current state of the project. We worked through some of art things, and generated a list of suggestions / action items for the current game. 
@@ -88,3 +88,5 @@ This Studio GTM was an extended one. It looks like a lot of people either got si
 Here are the presentations:
 
 [10-27-2024-Studio-GTM](<../pdf/11_24_24 Studio GTM.pdf>)
+
+Yarger you are yogurt and if so, you are the dancing queen, young and sweet, only 17. :))
