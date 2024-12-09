@@ -24,6 +24,6 @@ So.... I didn't have all the directors stay this long. However, we did stay an e
 # Sunday GTM worksession (8 hours 30 mins)
 Todays work session was ALL ABOUT GETTING THAT GOSH DARN UI IN. I HATE UI I HATE UI I HATE UI I HATE UI I HATE UI I HATE UI. Sorry I don't hate UI I'm literally a UI/UX design major, its just been an incredibly annoying endeavor to get in. Lots of bugs, lots of iteration, lots of fighting Unity.
 
-<img src="https://tenor.com/view/jerma-jermaa-peep-the-horror-red-scary-gif-14680989539226407616">
+![Alt Text](https://tenor.com/view/jerma-jermaa-peep-the-horror-red-scary-gif-14680989539226407616.gif)
 
 No slides this week :( ITS JUST BEEN WORK WORK WORK WORK WORK!!!!! Lets go. I hope the showcase is fun tmrw!!! I'll be working through this night aswell :) Idk if I'm allowed to log those hours, so I won't. Hope you've had as much fun as I've had this semester Austin!!
