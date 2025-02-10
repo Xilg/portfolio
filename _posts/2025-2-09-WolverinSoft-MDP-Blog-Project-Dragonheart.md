@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "F25 First Blogpost"
+title: "F25 First Blogpost - Project Dragonheart"
 ---
 
 > What I'm listening to: Plastic Love - Mariya Takeuchi
