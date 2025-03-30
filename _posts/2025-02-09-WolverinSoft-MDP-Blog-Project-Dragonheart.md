@@ -25,5 +25,5 @@ Refactored the Studio Notion website and added it your sites to the notion sites
 # Reviewing documentation & writing documentation the future directors: 3 hours
 Needed to write some documentation for future Studio director, and needed to re-review the current documentation, write comments, and ping the relevant people to update them in order to ensure that everything is up to date.
 
-
+T
 
