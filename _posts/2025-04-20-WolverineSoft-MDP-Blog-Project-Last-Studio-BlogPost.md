@@ -3,8 +3,6 @@ layout: posts
 title: "F25 LAST Blogpost - Project Dragonheart"
 ---
 
-> What I'm listening to: March 9th - Remioromen
-
 # Introduction - TOTAL TIME: 12+ hours
 Hello!!! Welcome to my 6th and last blogpost this semestser!
 
